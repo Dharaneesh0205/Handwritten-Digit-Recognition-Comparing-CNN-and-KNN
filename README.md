@@ -46,6 +46,3 @@ The project anticipates that the CNN will achieve higher accuracy (typically abo
 - Implement data augmentation for the CNN to improve robustness.
 - Explore the use of hybrid models that combine CNN and KNN techniques for enhanced performance.
 
----
-
-This description provides a comprehensive overview of the project, detailing the objectives, methodology, and expected outcomes while clearly comparing CNN and KNN.
