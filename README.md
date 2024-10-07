@@ -1,0 +1,2 @@
+# Handwritten-Digit-Recognition-Comparing-CNN-and-KNN
+This project compares the performance of Convolutional Neural Networks (CNN) and K-Nearest Neighbors (KNN) in recognizing handwritten digits from the MNIST dataset, with CNN achieving over 98% accuracy. The implementation includes data preprocessing, model training, and visualizations to highlight the strengths and weaknesses of each algorithm.
